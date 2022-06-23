@@ -5,4 +5,4 @@ The code will be released soon.
 
 
 # Video demo for long-term visual localization using the proposed IIB descriptor
-Google drive: https://drive.google.com/file/d/11PW9qu9IMzmlcoQ2Ydt4UxWqJpWfaB7J/view?usp=sharing
+Google drive: https://drive.google.com/file/d/1dmUPWx6AY1h4yKGwAun3NwAensGeF6ZA/view?usp=sharing
