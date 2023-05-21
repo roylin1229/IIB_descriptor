@@ -5,6 +5,9 @@ Email: roylin_cv@163.com
 
 The code will be released soon.
 
+# Level Line Guided Edge Drawing
+[![](https://github.com/roylin1229/E2LSD/blob/main/loc_demo.gif)](https://drive.google.com/file/d/1FUVsifDUfc6vJI4eiS7DuYwaoYxbpdV5/view?usp=share_link) 
+
 # Video demo
 
 [![](https://github.com/roylin1229/E2LSD/blob/main/loc_demo.gif)](https://drive.google.com/file/d/1FUVsifDUfc6vJI4eiS7DuYwaoYxbpdV5/view?usp=share_link)  
