@@ -7,6 +7,6 @@ The code will be released soon.
 
 # Video demo
 
-[![](https://github.com/roylin1229/E2LSD/blob/main/loc_demo.gif)](https://drive.google.com/file/d/1v5MVggT3BMPrBdLPKnxQozE8mjIBfmGm/view?usp=sharing)  
+[![](https://github.com/roylin1229/E2LSD/blob/main/loc_demo.gif)](https://drive.google.com/file/d/1FUVsifDUfc6vJI4eiS7DuYwaoYxbpdV5/view?usp=share_link)  
 
-Google Drive: https://drive.google.com/file/d/1v5MVggT3BMPrBdLPKnxQozE8mjIBfmGm/view?usp=sharing  
+Google Drive: https://drive.google.com/file/d/1FUVsifDUfc6vJI4eiS7DuYwaoYxbpdV5/view?usp=share_link  
