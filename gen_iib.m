@@ -1,3 +1,16 @@
+% Please note that the current implementation does not consider the primary orientation information of feature points.
+
+% Input:
+% kp            - OpenCV formatted feature points
+% img_gray      - Input image in grayscale
+% g             - Spatial granularity
+% radiu_scale   - Scaling factor for constructing ROS descriptors
+
+% Output:
+% kp            - Valid OpenCV formatted feature points
+% descs         - Valid feature point descriptors
+% alls_inliers  - Indices of valid points
+
 function [kp, descs, alls_inliers] = gen_iib(kp, img_gray, g, radiu_scale)
 
 [row, col]              = size(img_gray);
