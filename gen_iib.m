@@ -4,7 +4,7 @@
 % kp            - OpenCV formatted feature points
 % img_gray      - Input image in grayscale
 % g             - Spatial granularity
-% radiu_scale   - Scaling factor for constructing ROS descriptors
+% radiu_scale   - Scaling factor for constructing the ROS of descriptors
 
 % Output:
 % kp            - Valid OpenCV formatted feature points
