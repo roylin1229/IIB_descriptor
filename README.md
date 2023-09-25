@@ -15,8 +15,6 @@ If you have any questions or need further assistance, feel free to contact us at
 
 # Localization Demo using IIB Descriptor
 
-![Localization Demo](https://github.com/roylin1229/IIB_descriptor/blob/main/img.png)
-
-You can access the demo video on Google Drive [here](https://drive.google.com/file/d/1v5MVggT3BMPrBdLPKnxQozE8mjIBfmGm/view?usp=sharing).
+![Localization Demo](https://github.com/roylin1229/IIB_descriptor/blob/main/img.png)(https://drive.google.com/file/d/1v5MVggT3BMPrBdLPKnxQozE8mjIBfmGm/view?usp=sharing).
 
 Google Drive Link: [Demo Video](https://drive.google.com/file/d/1v5MVggT3BMPrBdLPKnxQozE8mjIBfmGm/view?usp=sharing)
